@@ -13,3 +13,24 @@ body {
     background-size: 10% 100px;
     background-color: cornflowerblue;
 }
+
+h1 {
+    margin: 3px;
+}
+
+.sottotitolo {
+    color: grey;
+}
+
+#autore {
+    color: cornflowerblue;
+}
+
+.foto-lee {
+    height: 200px;
+    width: 49%;
+}
+
+.evidenziato {
+    background: yellow;
+}
