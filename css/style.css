@@ -34,3 +34,21 @@ h1 {
 .evidenziato {
     background: yellow;
 }
+
+.didascalia {
+    font-size: 10px;
+    margin: 0.5px;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background: lightseagreen;
+}
+
+th {
+    color: white;
+}
+
