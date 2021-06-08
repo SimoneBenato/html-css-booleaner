@@ -52,3 +52,10 @@ th {
     color: white;
 }
 
+td {
+    width: 33%;
+}
+
+.azzurrino {
+    background: lightsteelblue;
+}
