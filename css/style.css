@@ -1,0 +1,15 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 20%;
+    height: 30%;
+}
+
+.banner-intestazione {
+    background-image:url("../img/pattern.png");
+    background-size: 10% 100px;
+    background-color: cornflowerblue;
+}
